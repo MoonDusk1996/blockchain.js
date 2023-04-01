@@ -30,7 +30,7 @@ Você pode iniciar a aplicação utilizando os seguintes parametros opcionais:
 
 Dificuldade: Dificuldade do calculo para a validação de cada bloco.
 
-Número de blocos: Número máximo de blcos a serem criados.
+Número de blocos: Número máximo de blocos a serem criados.
 
 ```bash
   npm run start [dificuldade] [número de blocos]
