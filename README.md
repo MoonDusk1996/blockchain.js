@@ -12,7 +12,7 @@ Também é utilizado o algorítimo "sha256" para a criação de hashs, fazendo c
 
 ## Instalação
 
-### Instale Blockchain.js com NPM
+### Instalação
 
 Recomendo usar o gerenciador de pacotes nativos do node para este projeto.
 
