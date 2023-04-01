@@ -10,11 +10,9 @@ Construída com [Typescript](https://www.typescriptlang.org/) e [NodeJS](https:/
 
 Também é utilizado o algorítimo "sha256" para a criação de hashs, fazendo com que Blockchain.js seja uma aplicação altamente performática, segura e escalável.
 
-## Instalação
+## Instalação da aplicação
 
-### Instalação
-
-Recomendo usar o gerenciador de pacotes nativos do node para este projeto.
+### Instalação 
 
 ```bash
   npm install
