@@ -6,7 +6,7 @@ Blockchain.js tem como finalidade demonstrar os principais conceitos e caracter�
 
 ## Tecnologias utilizadas
 
-Construída com [Typescript](https://www.typescriptlang.org/) e [NodeJS](https://nodejs.org/en), Blockchain.js usa de forma harmonica a tecnologia [ESBUILD](https://esbuild.github.io/), que é um empacotador web com foco em performace.
+Construída com [Typescript](https://www.typescriptlang.org/) e [NodeJS](https://nodejs.org/en), Blockchain.js usa de forma harmônica a tecnologia [ESBUILD](https://esbuild.github.io/), que é um empacotador web com foco em performace.
 
 Também é utilizado o algorítimo "sha256" para a criação de hashs, fazendo com que Blockchain.js seja uma aplicação altamente performática, segura e escalável.
 
