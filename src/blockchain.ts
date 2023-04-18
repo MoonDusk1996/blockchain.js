@@ -16,7 +16,7 @@ export interface Block {
 export class BlockChain {
   #chain: Block[] = [];
 
-  constructor(private readonly difficulty: number = 4) {
+  constructor(private readonly difficulty: number) {
     this.#chain.push(this.createGenesisBlock());
   }
 
